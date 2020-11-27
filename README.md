@@ -3,7 +3,7 @@
 I'm Ha-Gyeong currently graduated from CSE and aspiring full-stack developer. I mainly code in React and java, but I am always learning. Interested in working on frontend, backend, API's, Databases and currently learning about Spring boot. Occasionaly I do work in startup company.
 
 
-- 🔭 I’m currently working on backend project in Ebay company 
+- 🔭 I’m currently working on backend project in eBay company 
 - 🌱 I’m currently learning Spring boot, react, node
 - 📫 How to reach me: 💌 abcd358583@gmail.com
 - 🦁 Like Lion 7th Member / 8th Mentor
