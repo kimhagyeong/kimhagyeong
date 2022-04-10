@@ -3,7 +3,7 @@
 Hello. I'm Kim Ha-gyeong, a third-year developer with a dream of becoming a good colleagues without stopping at being exceptional developers.     
 I graduated from university with a degree in computer science engineering, and I had started a platform business for a year for front-end when I was a senior in college. Not the end, I worked on back-end projects and jobs about DevOps at ebaykroea data platform team for two years.
 
-<br/><br/>
+<br/>
 I'm interested in the DevOps area. If my knowledge of the web develops well combined with it, I’m suppose to provide many data science experiences for users.    
 <br/><br/>
 
